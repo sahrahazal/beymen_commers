@@ -1,0 +1,7 @@
+.card {
+  border:none!important;
+}
+.card-title.h5 {
+  height: 50px;
+  overflow: hidden;
+}
